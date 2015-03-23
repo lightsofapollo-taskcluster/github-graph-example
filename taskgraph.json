@@ -1,0 +1,1 @@
+{"tags":{},"metadata":{"name":"name","owner":"owner@owner.com","description":"description"},"tasks":[{"label":"test_local_graph","task":{"metadata":{"name":"Local example graph test","owner":"jlal@mozilla.com"},"payload":{"image":"ubuntu","command":["ls"]},"extra":{"treeherder":{"symbol":"TCT"}}}}]}
